@@ -1,2 +1,2 @@
-# Microprocessor_and_Interfacing
+# Microprocessors_and_Interfacing
 Computer science and engineering
